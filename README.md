@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1shaker
+- 👋 Hi, I’m @Shaker Al Muzaini
 - 👀 I’m interested in laravel and flutter
 - 🌱 I’m currently learning  flutter
 - 💞️ I’m looking to collaborate on
