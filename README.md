@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaker Al Muzaini
-- 👀 I’m interested in laravel and flutter
+- 👀 I’m interested in Laravel and Flutter
 - 🌱 I’m currently learning  flutter
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me linkedin.com/in/shakir-almazini/
