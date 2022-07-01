@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning  Flutter
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me linkedin.com/in/shakir-almazini/
+- 📫 How to reach me 
+  https://www.youtube.com/channel/UCQpyxpDFimb6QxM9L_DtXlQ
+
 
 <!---
 1shaker/1shaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
