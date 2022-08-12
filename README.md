@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shakir-almazini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakir-almazini/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009428056364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009428056364" height="30" width="40" /></a>
 <a href="https://instagram.com/shaker_2001_3_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaker_2001_3_28" height="30" width="40" /></a>
-<a href="https:https://www.youtube.com/channel/ucqpyxpdfimb6qxm9l_dtxlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqpyxpdfimb6qxm9l_dtxlq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQpyxpDFimb6QxM9L_DtXlQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCQpyxpDFimb6QxM9L_DtXlQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
