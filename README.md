@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini" alt="shaker-al-muzaini" /></a> </p>
 
-- 🔭 I’m currently working on [Our_Academy](https://github.com/Shaker-Al-Muzaini/Our_Academy)
+- 🔭 I’m currently working on [OurAcademy](https://github.com/Shaker-Al-Muzaini/OurAcademy)
 - 🔭 I’m currently working on [Report_projects](https://github.com/Shaker-Al-Muzaini/Report_projects)
 
 - 🌱 I’m currently learning **Blockchain**
