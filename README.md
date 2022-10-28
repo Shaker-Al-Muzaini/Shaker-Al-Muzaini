@@ -18,8 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@almazinishaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@almazinishaker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shakir-almazini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakir-almazini/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009428056364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg[
-](https://www.facebook.com/profile.php?id=100009428056364)" alt="https://www.facebook.com/profile.php?id=100009428056364" height="30" width="40" /></a>
+<a href="https://fb.com//profile.php?id=100009428056364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/profile.php?id=100009428056364" height="30" width="40" /></a>
 <a href="https://instagram.com/shaker_2001_3_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaker_2001_3_28" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqpyxpdfimb6qxm9l_dtxlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqpyxpdfimb6qxm9l_dtxlq" height="30" width="40" /></a>
 </p>
@@ -32,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaker-al-muzaini&show_icons=true&locale=en" alt="shaker-al-muzaini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaker-al-muzaini&" alt="shaker-al-muzaini" /></p>
+
