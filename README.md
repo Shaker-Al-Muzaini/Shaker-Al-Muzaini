@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=0e75b6&style=flat" alt="shaker-al-muzaini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini-theme=onedark" alt="shaker-al-muzaini" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini" alt="shaker-al-muzaini" /></a> </p>
 
 - 🔭 I’m currently working on [Laravel-Messenger-App-WithFlutter](https://github.com/Shaker-Al-Muzaini/Messenger-App-WithFlutter)
 
