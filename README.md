@@ -34,5 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaker-al-muzaini&" alt="shaker-al-muzaini" /></p>
 
 
-<p dir="auto"><a href="https://github.com/Shaker-Al-Muzaini"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="max-width: 60%;"></a></p>
+<p dir="auto"><a href="https://github.com/Shaker-Al-Muzaini"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="150" width="120" </a></p>
 
