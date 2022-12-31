@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaker-al-muzaini&show_icons=true&locale=en" alt="shaker-al-muzaini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaker-al-muzaini&" alt="shaker-al-muzaini" /></p>
+
+<p dir="auto"><a href="https://github.com/Shaker-Al-Muzaini"><img src="/Shaker-Al-Muzaini/Shaker-Al-Muzaini/raw/main/contributions.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2a1a6ade0ec4d37d2444af08a3d0510143dc6a7ca96c24a117b779f86936b82d/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d746f6e6472656a6b2e746f6e6472656a6b"><img width="0" src="https://camo.githubusercontent.com/2a1a6ade0ec4d37d2444af08a3d0510143dc6a7ca96c24a117b779f86936b82d/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d746f6e6472656a6b2e746f6e6472656a6b" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" style="max-width: 100%;"></a></p>
