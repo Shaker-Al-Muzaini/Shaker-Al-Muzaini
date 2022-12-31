@@ -33,7 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaker-al-muzaini&" alt="shaker-al-muzaini" /></p>
 
-<p dir="auto"><a href="https://github.com/Shaker-Al-Muzaini"><img src="/Shaker-Al-Muzaini/Shaker-Al-Muzaini/raw/main/contributions.svg" style="max-width: 100%;"></a></p>
 
-<p dir="auto"><a href="https://github.com/Shaker-Al-Muzaini"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/Shaker-Al-Muzaini"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="max-width: 60%;"></a></p>
 
