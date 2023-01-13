@@ -30,7 +30,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shaker-al-muzaini&show_icons=true&theme=radical" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaker-al-muzaini&show_icons=true&locale=en&layout=compact" alt="shaker-al-muzaini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaker-al-muzaini&show_icons=true&theme=radical" /></p>
+<--!(https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaker-al-muzaini&show_icons=true&locale=en&layout=compact" alt="shaker-al-muzaini" /></p>-->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaker-al-muzaini&" alt="shaker-al-muzaini" /></p>
