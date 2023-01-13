@@ -2,7 +2,7 @@
 <h3 align="center">Laravel & Flutter Developer</h3>             
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true -->  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=0e75b6&style=flat" alt="shaker-al-muzaini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=bluevioletstyle=flat" alt="shaker-al-muzaini" /> </p>
 
 	
 
