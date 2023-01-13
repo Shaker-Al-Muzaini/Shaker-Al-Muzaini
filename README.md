@@ -33,7 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaker-al-muzaini&show_icons=true&theme=radical"  alt="shaker-al-muzaini" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaker-al-muzaini&" alt="shaker-al-muzaini" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical" alt="shaker-al-muzaini" /></p>
 
 
 
