@@ -3,7 +3,7 @@
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true -->  
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini&theme=dracula" alt="shaker-al-muzaini" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini&theme=radical" alt="shaker-al-muzaini" /></a> </p>
 
 
 
