@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaker Al Muzaini</h1>                            
 <h3 align="center">Laravel & Flutter Developer</h3>             
-<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true -->      
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true -->  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=0e75b6&style=flat" alt="shaker-al-muzaini" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini" alt="shaker-al-muzaini" /></a> </p>
  
