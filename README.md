@@ -13,7 +13,7 @@
 
 
  
-- 🔭 I’m currently working on [Competition-Project](https://github.com/Shaker-Al-Muzaini/Competition-Project) 
+- 🔭 I’m currently working on [Academic-Educational](https://github.com/Shaker-Al-Muzaini/Academic-Educational-Platform) 
 
 
 - 🌱 I’m currently learning **Blockchain**
