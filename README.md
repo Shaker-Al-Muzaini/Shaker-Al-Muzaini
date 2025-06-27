@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at linkedin.com/in/shakir-almazini
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shakir-almazini
 
 - 📫 How to reach me **https://github.com/Shaker-Al-Muzaini**
 
