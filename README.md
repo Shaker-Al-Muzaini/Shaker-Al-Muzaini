@@ -1,48 +1,58 @@
-<h1 align="center">Hi 👋, I'm Shaker Al Muzaini</h1>                              
-<h3 align="center">Laravel Developer |  DevOps Engineer </h3>              
-<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true -->  
+<h1 align="center">Hi 👋, I'm Shaker Al-Muzayni</h1>
+<h3 align="center">Full Stack Laravel Developer | DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=blueviolet&&style=flat" alt="shaker-al-muzaini" /> </p>
-
-	
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker-al-muzaini&theme=radical" alt="shaker-al-muzaini" /></a> </p>
-
-
-
-
- 
-- 🔭 I’m currently working on [ShopMart](https://github.com/Shaker-Al-Muzaini/ShopMart) 
-
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shakir-almazini
-
-- 📫 How to reach me **https://github.com/Shaker-Al-Muzaini**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@almazinishaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@almazinishaker" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shakir-almazini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakir-almazini/" height="30" width="40" /></a>
-<a href="https://fb.com//profile.php?id=100009428056364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/profile.php?id=100009428056364" height="30" width="40" /></a>
-<a href="https://instagram.com/shaker_2001_3_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaker_2001_3_28" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCQpyxpDFimb6QxM9L_DtXlQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucqpyxpdfimb6qxm9l_dtxlq" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+---
+
+## 🚀 About Me  
+Full Stack Laravel Developer & DevOps Engineer with **5+ years of experience**, specializing in scalable systems, API integrations, cloud deployment, and real-time applications. Skilled in Laravel, Vue.js, React, Docker, AWS, CI/CD, and building production-ready platforms.
+
+---
+
+## 💼 Experience (Past Roles)
+- **Laravel Developer at Domino ICT** *(Past Experience)*  
+- **Laravel Developer at In2world / MIXAA** *(Past Experience)*  
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Backend:** Laravel, PHP, MySQL, PostgreSQL, Redis  
+**Frontend:** Vue.js, React.js, Tailwind CSS, Inertia.js  
+**DevOps:** Docker, Linux, Nginx, Kubernetes, GitHub Actions (CI/CD)  
+**Cloud:** AWS (S3), Firebase  
+**Real-Time:** WebRTC, Jitsi Meet, Pusher  
+**Server Management:** Linux, cPanel  
+
+---
+
+## 📜 Certificates  
+- Networking World  
+- English Writing Skills  
+- Laravel Socialite  
+- Build a Complete Job Portal  
+- Laravel Telescope  
+
+---
+
+## 🌐 Connect With Me  
+<p>
+<a href="https://twitter.com/@almazinishaker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
+<a href="https://www.linkedin.com/in/shakir-almazini/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://github.com/Shaker-Al-Muzaini" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/></a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shaker-al-muzaini&show_icons=true&theme=radical" alt="shaker-al-muzaini"  /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaker-al-muzaini&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaker-al-muzaini&layout=compact&theme=radical" height="180"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaker-al-muzaini&show_icons=true&theme=radical"  alt="shaker-al-muzaini" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical" alt="shaker-al-muzaini" /></p>
-
-
- 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical" height="180"/>
+</p>
