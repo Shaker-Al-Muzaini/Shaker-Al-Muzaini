@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shaker Al-Muzayni</h1>
-<h3 align="center">Full Stack Laravel Developer | DevOps Engineer</h3>
+<h3 align="center">Laravel Developer | DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaker-al-muzaini&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ---
-
 ## 🚀 About Me  
-Full Stack Laravel Developer & DevOps Engineer with **5+ years of experience**, specializing in scalable systems, API integrations, cloud deployment, and real-time applications. Skilled in Laravel, Vue.js, React, Docker, AWS, CI/CD, and building production-ready platforms.
+Laravel Developer & DevOps Engineer with **5+ years of experience**, specializing in scalable systems, API integrations, cloud deployment, and real-time applications. Skilled in Laravel, Vue.js, React, Docker, AWS, CI/CD, and building production-ready platforms.
 
 ---
 
