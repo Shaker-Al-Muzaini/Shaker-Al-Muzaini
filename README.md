@@ -13,8 +13,9 @@ Full Stack Laravel Developer & DevOps Engineer with **5+ years of experience**, 
 ---
 
 ## 💼 Experience (Past Roles)
-- **Laravel Developer at Domino ICT** *(Past Experience)*  
 - **Laravel Developer at In2world / MIXAA** *(Past Experience)*  
+- **Laravel Developer at Domino ICT** *(Past Experience)*  
+
 
 ---
 
