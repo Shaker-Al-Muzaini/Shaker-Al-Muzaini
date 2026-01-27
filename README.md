@@ -39,7 +39,7 @@ Full Stack Laravel Developer & DevOps Engineer with **5+ years of experience**, 
   <img src="https://img.shields.io/badge/React-0DCAF0?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Inertia.js-6A00FF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-6A00FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-5A67D8?style=for-the-badge&logo=inertia&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps
