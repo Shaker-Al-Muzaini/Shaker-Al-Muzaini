@@ -69,11 +69,16 @@ Laravel Developer & DevOps Engineer with **5+ years of experience**, specializin
 ---
 
 ## 📜 Certificates  
-- Networking World  
-- English Writing Skills  
-- Laravel Socialite  
-- Build a Complete Job Portal  
-- Laravel Telescope  
+
+- 🌐 [Networking World](https://drive.google.com/file/d/1KEwAvhMjvbrH4kQctaREU51dypl3N_rS/view)
+- 🛠️ [Professional Certificate in DevOps](https://drive.google.com/file/d/1VWa6GkZT01mBSHeQd9sOgNwvcF2If4iE/view)
+- ✍️ [English Writing Skills](https://drive.google.com/file/d/1ZcZC2Gjuctx-98JoCHjAm7RseLxA_8D3/view)
+- 🏨 [Hotel Management System](https://drive.google.com/file/d/1MsSVAzQQh65ucOb3EXvC06cWZZlMIpo-/view)
+- 🔗 [Laravel Socialite](https://drive.google.com/file/d/1bE7FD9Vuj5r-p87QydgpW2PPOkC8rTtE/view)
+- 💼 [Build a Complete Job Portal](https://drive.google.com/file/d/1kj2gvYkfWZYzNkIekEqk76AXex3AArDr/view)
+- 🐳 [Docker Deep Dive](https://drive.google.com/file/d/1qTxHkYK7f5oB5V9UwSDmA5sXQvO78jcR/view)
+- 🔭 [Laravel Telescope](https://drive.google.com/file/d/1bvDaRAheycJ1BnC-bjcXJafxS94TKDoP/view)
+
 
 ---
 
