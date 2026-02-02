@@ -99,5 +99,7 @@ Laravel Developer & DevOps Engineer with **5+ years of experience**, specializin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical&cache_seconds=60" height="180" /_
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical&cache_seconds=60" height="180" />
+</p>
+
 
