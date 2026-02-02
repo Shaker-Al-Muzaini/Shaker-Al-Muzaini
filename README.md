@@ -90,16 +90,16 @@ Laravel Developer & DevOps Engineer with **5+ years of experience**, specializin
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaker-al-muzaini&show_icons=true&theme=radical&cache_seconds=60" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaker-al-muzaini&layout=compact&theme=radical&cache_seconds=60" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaker-al-muzaini&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaker-al-muzaini&layout=compact&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical&cache_seconds=60" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaker-al-muzaini&theme=radical" height="180"/>
 </p>
+
 
 
