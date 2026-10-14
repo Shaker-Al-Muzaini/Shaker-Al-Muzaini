@@ -31,10 +31,10 @@ I build Laravel APIs, FastAPI services, and n8n workflows. My work connects busi
 | B2B Link | RFQs, supplier proposals, and digital contracts | Laravel · Vue · Inertia.js | [Case study](https://my-identity-eta.vercel.app/project/b2b-link) · [Code](https://github.com/Shaker-Al-Muzaini/B2B_App) |
 | doblg | Video transcription, translation, and Arabic dubbing | Python · FastAPI · React | [Case study](https://my-identity-eta.vercel.app/project/doblg) · [Code](https://github.com/Shaker-Al-Muzaini/df) |
 
-**Experience**  
+**Experience** 
+**Freelance Developer** · Independent · 2019–2026
 **Senior Laravel Developer** · In2world / MIXAA Group · Sep 2023–Feb 2025  
 **Full Stack Developer** · Domino ICT · Dec 2021–Jun 2023  
-**Freelance Developer** · Independent · 2019–2021
 
 **Stack**  
 <img src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,vue,react,postgres,mysql,redis,docker,githubactions,aws&theme=light" height="32" alt="Laravel, PHP, Python, FastAPI, Vue, React, PostgreSQL, MySQL, Redis, Docker, GitHub Actions, AWS">
