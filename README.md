@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B3D2E,100:0F8A5F&text=Shaker%20Al-Muzayni&fontColor=ffffff&fontSize=44&fontAlignY=40&animation=fadeIn&desc=I%20build%20the%20backend%2C%20the%20AI%20service%2C%20and%20the%20automation%20around%20it.&descSize=16&descAlignY=62" alt="Shaker Al-Muzayni - Backend and Automation Developer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0B3D2E,100:0F8A5F&amp;text=Shaker%20Al-Muzayni&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc=Backend%20systems%20%C2%B7%20AI%20services%20%C2%B7%20Workflow%20automation&amp;descSize=16&amp;descAlignY=62" alt="Shaker Al-Muzayni — Backend and Automation Developer" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=7EE0B5&center=true&vCenter=true&width=620&height=40&lines=Backend+%26+Automation+Developer;Laravel+%7C+FastAPI+%7C+n8n;Open+to+freelance+projects">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=0F8A5F&center=true&vCenter=true&width=620&height=40&lines=Backend+%26+Automation+Developer;Laravel+%7C+FastAPI+%7C+n8n;Open+to+freelance+projects">
-  <img alt="Backend and Automation Developer | Laravel, FastAPI, n8n" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=0F8A5F&center=true&vCenter=true&width=620&height=40&lines=Backend+%26+Automation+Developer;Laravel+%7C+FastAPI+%7C+n8n;Open+to+freelance+projects">
-</picture>
+<p>
+  <strong>Backend &amp; Automation Developer</strong><br>
+  Laravel · FastAPI · n8n
+</p>
+
+<p>
+  I build the backend, the AI service, and the automation around it.
+</p>
 
 <p>
   <a href="https://my-identity-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F8A5F?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shakir-almazini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://mostaql.com/u/ShakerAlmazini"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=for-the-badge" alt="Mostaql"></a>
-  <a href="mailto:sshakiralmazini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sshakiralmazini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 </div>
@@ -47,16 +50,20 @@ I build Laravel APIs, FastAPI services, and n8n workflows. My work connects busi
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,python,fastapi,vue,react,postgres,mysql,redis,docker,githubactions,aws&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,python,fastapi,vue,react,postgres,mysql,redis,docker,githubactions,aws&theme=light">
-  <img height="40" alt="Laravel, PHP, Python, FastAPI, Vue, React, PostgreSQL, MySQL, Redis, Docker, GitHub Actions, AWS" src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,vue,react,postgres,mysql,redis,docker,githubactions,aws&theme=light">
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel%2Cphp%2Cpython%2Cfastapi%2Cvue%2Creact%2Cpostgres%2Cmysql%2Credis%2Cdocker%2Cgithubactions%2Caws&amp;theme=light&amp;perline=12" alt="Laravel, PHP, Python, FastAPI, Vue, React, PostgreSQL, MySQL, Redis, Docker, GitHub Actions, AWS" height="44">
+</p>
 
-Also: n8n · Stripe · Pusher · WebRTC · Groq
+<p align="center">
+  <sub>Also: n8n · Stripe · Pusher · WebRTC · Groq</sub>
+</p>
+
+## Certifications
+
+[View certifications on my portfolio](https://my-identity-eta.vercel.app/#certifications)
 
 <details>
-<summary><b>Certifications</b> (click to expand)</summary>
+<summary>Certificate details and verification</summary>
 
 <br>
 
@@ -66,31 +73,24 @@ Also: n8n · Stripe · Pusher · WebRTC · Groq
 | Docker Deep Dive: Build, Ship, and Run Containers | Udemy | Jan 2026 | [Verify](https://ude.my/UC-01df1322-683d-4168-a04b-c8e3a317ea5f) |
 | PHP Laravel: Build Hotel Booking Management System | Udemy | Jan 2026 | [Verify](https://ude.my/UC-22f83a77-4cc2-4276-8c81-342fb750aad6) |
 | Laravel Telescope for Absolute Beginners | Udemy | Aug 2023 | [Verify](https://ude.my/UC-eb5ba9cf-3413-4d3f-868d-6264628bd14b) |
-| Laravel Socialite: The Complete Guide | Udemy | | [Verify](https://ude.my/UC-e647d841-651d-49e9-a0d5-c4b704534bc9) |
-| PHP with MySQL 2023: Build a Complete Job Portal | Udemy | | [Verify](https://ude.my/UC-4450d3cf-0299-40cd-84dc-315cc5a2ef6d) |
-| Introduction to the World of Networks | Edraak | Aug 2023 | |
-| English Writing Skills | Edraak | | |
+| Laravel Socialite: The Complete Guide | Udemy | — | [Verify](https://ude.my/UC-e647d841-651d-49e9-a0d5-c4b704534bc9) |
+| PHP with MySQL 2023: Build a Complete Job Portal | Udemy | — | [Verify](https://ude.my/UC-4450d3cf-0299-40cd-84dc-315cc5a2ef6d) |
+| Introduction to the World of Networks | Edraak | Aug 2023 | — |
+| English Writing Skills | Edraak | — | — |
 
 </details>
 
 ## Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Shaker-Al-Muzaini?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shaker-Al-Muzaini&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=issues%2Ccontribs&amp;title_color=0F8A5F&amp;icon_color=0F8A5F&amp;text_color=0B2A20&amp;bg_color=F6FAF7&amp;border_radius=14" alt="Shaker Al-Muzayni's public GitHub statistics" width="440">
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaker-Al-Muzaini/Shaker-Al-Muzaini/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaker-Al-Muzaini/Shaker-Al-Muzaini/output/github-snake.svg">
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Shaker-Al-Muzaini/Shaker-Al-Muzaini/output/github-snake.svg">
-</picture>
+<p align="center">
+  <strong>Have a project in mind?</strong><br>
+  <a href="mailto:sshakiralmazini@gmail.com">Let's build it.</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shaker-Al-Muzaini&show_icons=true&hide_rank=true&hide_border=true&hide=issues,contribs&theme=transparent&title_color=7EE0B5&icon_color=7EE0B5&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Shaker-Al-Muzaini&show_icons=true&hide_rank=true&hide_border=true&hide=issues,contribs&theme=transparent&title_color=0F8A5F&icon_color=0F8A5F&text_color=0B2A20">
-  <img width="420" alt="Public GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Shaker-Al-Muzaini&show_icons=true&hide_rank=true&hide_border=true&hide=issues,contribs&theme=transparent&title_color=0F8A5F&icon_color=0F8A5F&text_color=0B2A20">
-</picture>
-
-<p dir="rtl">أحوّل الأفكار إلى أنظمة عملية، من أول طلب إلى التشغيل.</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0F8A5F,100:0B3D2E&section=footer" alt="" width="100%">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=80&amp;color=0:0F8A5F,100:0B3D2E&amp;section=footer" alt="" width="100%">
