@@ -14,7 +14,6 @@
 <p>
   <a href="https://my-identity-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F8A5F?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shakir-almazini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://mostaql.com/u/ShakerAlmazini"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=for-the-badge" alt="Mostaql"></a>
   <a href="mailto:sshakiralmazini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
