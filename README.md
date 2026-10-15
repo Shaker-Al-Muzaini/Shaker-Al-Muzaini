@@ -4,7 +4,7 @@
 
 <p>
   <strong>Backend &amp; Automation Developer</strong><br>
-  Laravel · FastAPI · n8n
+  Laravel · FastAPI · n8n 
 </p>
 
 <p>
