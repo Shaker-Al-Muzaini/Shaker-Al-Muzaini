@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0B3D2E,100:0F8A5F&amp;text=Shaker%20Al-Muzayni&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc=Backend%20systems%20%C2%B7%20AI%20services%20%C2%B7%20Workflow%20automation&amp;descSize=16&amp;descAlignY=62" alt="Shaker Al-Muzayni — Backend and Automation Developer" width="100%">
 
